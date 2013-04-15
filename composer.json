@@ -1,0 +1,17 @@
+{
+    "name": "burnbright/silverstripe-seo",
+    "type": "silverstripe-module",
+    "description": "Adds Meta Title field to page Metadata area",
+    "require": {
+        "silverstripe/cms": "3.1.*",
+        "silverstripe/framework": "3.1.*",
+        "php": ">=5.3.2"
+    },
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Jeremy Shipman",
+            "email": "jeremy@burnbright.net"
+        }
+    ]
+}
