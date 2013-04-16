@@ -1,5 +1,5 @@
 {
-    "name": "burnbright/silverstripe-seo",
+    "name": "burnbright/seo",
     "type": "silverstripe-module",
     "description": "Adds Meta Title field to page Metadata area",
     "require": {
